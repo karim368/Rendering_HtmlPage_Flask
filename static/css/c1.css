@@ -1,0 +1,10 @@
+h1:hover
+{
+    color: darkmagenta;
+    text-shadow: 50%;
+}
+
+body:hover
+{
+    background-color: aquamarine;
+}
